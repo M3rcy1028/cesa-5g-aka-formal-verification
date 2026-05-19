@@ -4,6 +4,18 @@ This repository contains the formal verification models of **CESA**, a lightweig
 
 Formal security validation was performed using **ProVerif** and **Scyther** under the Dolev–Yao adversary model.
 
+```bibtex
+@article{woo2025cesa,
+  author    = {Woo, Naryun and Kang, Taehyun and Ryu, Jihyun},
+  title     = {CESA: Chebyshev-Polynomials-Based Efficient and Secure Access Authentication Scheme for Both User Equipment and Massive Machine-Type-Communication Devices Over 5G Networks},
+  journal   = {IEEE Internet of Things Journal},
+  volume    = {12},
+  number    = {11},
+  pages     = {17542--17557},
+  year      = {2025}
+}
+```
+
 ---
 
 ## 📄 Manuscript Information
